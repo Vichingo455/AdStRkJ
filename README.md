@@ -1,0 +1,2 @@
+# AdStRkJ
+Destructive GDI trojan
