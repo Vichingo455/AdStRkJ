@@ -1,0 +1,92 @@
+﻿<Mappings><Entry OldName="gdi_test.gdi.r" NewName="gdi_test.gdi.c49006c49bbbf9375d9cbadc80947d639" />
+<Entry OldName="gdi_test.gdi.icon" NewName="gdi_test.gdi.c4640578d907cc4ee4b8380727cb58749" />
+<Entry OldName="gdi_test.gdi.components" NewName="gdi_test.gdi.cbe6ca791e9aebbfdaf0e6b365559a193" />
+<Entry OldName="gdi_test.gdi.timer1" NewName="gdi_test.gdi.ce5cb59e78fb998af6e234980b121d001" />
+<Entry OldName="gdi_test.gdi.timer2" NewName="gdi_test.gdi.c41fcce5763733b6de06f137788d5dc03" />
+<Entry OldName="gdi_test.gdi.timer3" NewName="gdi_test.gdi.c5a9174310093a714fc0febf573dee25e" />
+<Entry OldName="gdi_test.gdi.timer4" NewName="gdi_test.gdi.cc7f5146836eaa4c0b91af112fb6b9637" />
+<Entry OldName="gdi_test.Properties.Resources.resourceMan" NewName="A.c210d3e36fe4a1e5259b18809a8185239.c7166631f32b20fe75fd856fbd89d9374" />
+<Entry OldName="gdi_test.Properties.Resources.resourceCulture" NewName="A.c210d3e36fe4a1e5259b18809a8185239.ce22ae66d732acac1a97403fd17ee457c" />
+<Entry OldName="gdi_test.gdi.NtSetInformationProcess(IntPtr hProcess, Int32 processInformationClass, Int32&amp; processInformation, Int32 processInformationLength)" NewName="gdi_test.gdi.ccbb4c69b156768ce2dd135dc5b0166ec(IntPtr c73487f3bd2295afe7da110ec69d87658, Int32 c7e7b61bca7c6076383d3c391157eaaeb, Int32&amp; ce6bdcf5a1ddbf5b6d8277ae918c6b4b1, Int32 c61edc96907cdc6dd8a84553b17cedc79)" />
+<Entry OldName="gdi_test.gdi.GetDesktopWindow()" NewName="gdi_test.gdi.cec012b7801239b1b066cbfb08306b816()" />
+<Entry OldName="gdi_test.gdi.GetWindowDC(IntPtr hWnd)" NewName="gdi_test.gdi.c0d0bc3386c8bf289005773d18db65b06(IntPtr c5585fe1f20cb5f0a5fc24ecc94e4ec4a)" />
+<Entry OldName="gdi_test.gdi.ExtractIconEx(String sFile, Int32 iIndex, IntPtr&amp; piLargeVersion, IntPtr&amp; piSmallVersion, Int32 amountIcons)" NewName="gdi_test.gdi.cf60f8422e0ddc6d24c6b20960957eb97(String c563ac77e85fe403245f7c4cd9383674e, Int32 cd342a7030b54a7695b758406a28abaeb, IntPtr&amp; c461e1c2fc989ba5badc70ed1ca29a66d, IntPtr&amp; c1f3dca5f353af5913cc51303cacdd99a, Int32 c1c476e6ea2190e5eff86dddf89256148)" />
+<Entry OldName="gdi_test.gdi.InvalidateRect(IntPtr hWnd, IntPtr lpRect, Boolean bErase)" NewName="gdi_test.gdi.cb008d37ebca8ac901275271b58b451e4(IntPtr c5585fe1f20cb5f0a5fc24ecc94e4ec4a, IntPtr cc319f22e7e5dcde61cce7f371621dc8b, Boolean ca48d77de48e22704d6f500ea480096f6)" />
+<Entry OldName="gdi_test.gdi.StretchBlt(IntPtr hdcDest, Int32 nXOriginDest, Int32 nYOriginDest, Int32 nWidthDest, Int32 nHeightDest, IntPtr hdcSrc, Int32 nXOriginSrc, Int32 nYOriginSrc, Int32 nWidthSrc, Int32 nHeightSrc, TernaryRasterOperations dwRop)" NewName="gdi_test.gdi.c885a5e06efd26e69082216a984fad1d3(IntPtr cb2124ef910bc9b0e322858e508b2119b, Int32 c467f9b26bc2bada9abddc49acb4abe7d, Int32 c800df8d90603ea79f240f562b7ad065c, Int32 cd954d74abc56432075ffa9dab14fca4e, Int32 c750180b4787303d264b7dd3420251fb6, IntPtr cdc2bce4fbd228c20671544cc911dca6b, Int32 cb9e7f106e8d83943d4f58ff3fa257b73, Int32 c57d2f23b335248650f75036e57ca2392, Int32 cd01e14c685ac23f299ea8ddecad8262f, Int32 c7cfadf0ae1769accf8874731e8e9868c, TernaryRasterOperations cdfd8951b498c3d0586bcca3b37f70edd)" />
+<Entry OldName="gdi_test.gdi.gdi_Load(Object sender, EventArgs e)" NewName="gdi_test.gdi.c52774f886af8c35d33cfdcd3e52316a1(Object c4cff5b0c30c8f1f10bf9d7a4223c54fa, EventArgs c193adb914fb575109cc7afd2f6e9d5ca)" />
+<Entry OldName="gdi_test.gdi.timer1_Tick(Object sender, EventArgs e)" NewName="gdi_test.gdi.c0200817ff569bd8977f782d63bffab55(Object c4cff5b0c30c8f1f10bf9d7a4223c54fa, EventArgs c193adb914fb575109cc7afd2f6e9d5ca)" />
+<Entry OldName="gdi_test.gdi.timer2_Tick(Object sender, EventArgs e)" NewName="gdi_test.gdi.cb0dd8d7e5ad5e7d5ee901173352bfe98(Object c4cff5b0c30c8f1f10bf9d7a4223c54fa, EventArgs c193adb914fb575109cc7afd2f6e9d5ca)" />
+<Entry OldName="gdi_test.gdi.timer3_Tick(Object sender, EventArgs e)" NewName="gdi_test.gdi.ca0194f095a696ae9c7e34e8400a602dd(Object c4cff5b0c30c8f1f10bf9d7a4223c54fa, EventArgs c193adb914fb575109cc7afd2f6e9d5ca)" />
+<Entry OldName="gdi_test.gdi.timer4_Tick(Object sender, EventArgs e)" NewName="gdi_test.gdi.c01405ca0d0b48bf55368a1e001e77a9b(Object c4cff5b0c30c8f1f10bf9d7a4223c54fa, EventArgs c193adb914fb575109cc7afd2f6e9d5ca)" />
+<Entry OldName="gdi_test.gdi.InitializeComponent()" NewName="gdi_test.gdi.c171bf21580775497addae252c00874f7()" />
+<Entry OldName="gdi_test.Program.Main()" NewName="A.cbd7dfdab023953d91798cc1aa61a9368.c04812d8fb36363f2cb562837dc3f8e6d()" />
+<Entry OldName="gdi_test.Properties.Resources..ctor()" NewName="A.c210d3e36fe4a1e5259b18809a8185239..ctor()" />
+<Entry OldName="gdi_test.Properties.Resources.get_ResourceManager()" NewName="A.c210d3e36fe4a1e5259b18809a8185239.get_ResourceManager()" />
+<Entry OldName="gdi_test.Properties.Resources.get_Culture()" NewName="A.c210d3e36fe4a1e5259b18809a8185239.get_Culture()" />
+<Entry OldName="gdi_test.Properties.Resources.set_Culture(CultureInfo value)" NewName="A.c210d3e36fe4a1e5259b18809a8185239.set_Culture(CultureInfo value)" />
+<Entry OldName="gdi_test.Program" NewName="A.cbd7dfdab023953d91798cc1aa61a9368" />
+<Entry OldName="gdi_test.Properties.Resources" NewName="A.c210d3e36fe4a1e5259b18809a8185239" />
+<Assembly Name="gdi_test"><Type Token="33554433" Name="&lt;Module&gt;" />
+<Method Token="100663297" Name="" Variables="" ParamCnt="0" />
+<Type Token="33554434" Name="gdi_test.gdi" />
+<Method Token="100663298" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663299" Name="NtSetInformationProcess" Variables="hProcess;processInformationClass;processInformation;processInformationLength;" ParamCnt="4" />
+<Method Token="100663300" Name="GetDesktopWindow" Variables="" ParamCnt="0" />
+<Method Token="100663301" Name="GetWindowDC" Variables="hWnd;" ParamCnt="1" />
+<Method Token="100663302" Name="ExtractIconEx" Variables="sFile;iIndex;piLargeVersion;piSmallVersion;amountIcons;" ParamCnt="5" />
+<Method Token="100663303" Name="InvalidateRect" Variables="hWnd;lpRect;bErase;" ParamCnt="3" />
+<Method Token="100663304" Name="StretchBlt" Variables="hdcDest;nXOriginDest;nYOriginDest;nWidthDest;nHeightDest;hdcSrc;nXOriginSrc;nYOriginSrc;nWidthSrc;nHeightSrc;dwRop;" ParamCnt="11" />
+<Method Token="100663305" Name="Extract" Variables="file;number;largeIcon;V_0;V_1;V_2;" ParamCnt="3" />
+<Method Token="100663306" Name="get_CreateParams" Variables="this;V_0;V_1;" ParamCnt="1" />
+<Method Token="100663307" Name="Extract" Variables="nameSpace;outDirectory;internalFilePath;resourceName;V_0;V_1;V_2;V_3;V_4;" ParamCnt="4" />
+<Method Token="100663308" Name="gdi_Load" Variables="this;sender;e;V_0;V_1;V_2;V_3;V_4;V_5;V_6;" ParamCnt="3" />
+<Method Token="100663309" Name="timer1_Tick" Variables="this;sender;e;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;V_12;V_13;V_14;" ParamCnt="3" />
+<Method Token="100663310" Name="timer2_Tick" Variables="this;sender;e;V_0;V_1;V_2;V_3;V_4;" ParamCnt="3" />
+<Method Token="100663311" Name="timer3_Tick" Variables="this;sender;e;V_0;V_1;V_2;V_3;V_4;" ParamCnt="3" />
+<Method Token="100663312" Name="timer4_Tick" Variables="this;sender;e;V_0;V_1;V_2;V_3;V_4;" ParamCnt="3" />
+<Method Token="100663313" Name="sound" Variables="this;V_0;V_1;V_2;" ParamCnt="1" />
+<Method Token="100663314" Name="unpack" Variables="this;V_0;V_1;" ParamCnt="1" />
+<Method Token="100663315" Name="delete_overwrite_files" Variables="this;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;V_12;V_13;V_14;" ParamCnt="1" />
+<Method Token="100663316" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663317" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108865" Name="r" />
+<Field Token="67108866" Name="icon" />
+<Field Token="67108867" Name="components" />
+<Field Token="67108868" Name="timer1" />
+<Field Token="67108869" Name="timer2" />
+<Field Token="67108870" Name="timer3" />
+<Field Token="67108871" Name="timer4" />
+<Type Token="33554436" Name="gdi_test.Program" />
+<Method Token="100663319" Name="Main" Variables="" ParamCnt="0" />
+<Type Token="33554438" Name="gdi_test.Properties.Resources" />
+<Method Token="100663326" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663327" Name="get_ResourceManager" Variables="V_0;V_1;V_2;" ParamCnt="0" />
+<Method Token="100663328" Name="get_Culture" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663329" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Field Token="67108873" Name="resourceMan" />
+<Field Token="67108874" Name="resourceCulture" />
+<Type Token="33554439" Name="gdi_test.Properties.Settings" />
+<Method Token="100663330" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663331" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663332" Name="get_Default" Variables="V_0;" ParamCnt="0" />
+<Field Token="67108875" Name="defaultInstance" />
+<Type Token="33554440" Name="gdi_test.gdi/TernaryRasterOperations" />
+<Field Token="67108876" Name="value__" />
+<Field Token="67108877" Name="SRCCOPY" />
+<Field Token="67108878" Name="SRCPAINT" />
+<Field Token="67108879" Name="SRCAND" />
+<Field Token="67108880" Name="SRCINVERT" />
+<Field Token="67108881" Name="SRCERASE" />
+<Field Token="67108882" Name="NOTSRCCOPY" />
+<Field Token="67108883" Name="NOTSRCERASE" />
+<Field Token="67108884" Name="MERGECOPY" />
+<Field Token="67108885" Name="MERGEPAINT" />
+<Field Token="67108886" Name="PATCOPY" />
+<Field Token="67108887" Name="PATPAINT" />
+<Field Token="67108888" Name="PATINVERT" />
+<Field Token="67108889" Name="DSTINVERT" />
+<Field Token="67108890" Name="BLACKNESS" />
+<Field Token="67108891" Name="WHITENESS" />
+<Type Token="33554435" Name="A.AssemblyInfoAttribute" />
+<Method Token="100663318" Name="" Variables="this;str;" ParamCnt="2" />
+</Assembly></Mappings>
